@@ -139,7 +139,7 @@
     
             function displayMovies(data) {
                 const cardsContainer = document.querySelector('.cards');
-                cardsContainer.innerHTML = ''; // Clear previous cards
+                cardsContainer.innerHTML = ''; 
                 data.forEach(item => {
                     const card = document.createElement('div');
                     card.classList.add('card');
@@ -147,7 +147,7 @@
                     const poster = document.createElement('div');
                     poster.classList.add('poster');
                     poster.style.backgroundImage = `url(${item.image})`;
-                    poster.dataset.video = item.video; // Assuming your data contains video URLs
+                    poster.dataset.video = item.video; 
 
                     const title = document.createElement('h5');
                     title.textContent = item.title;
