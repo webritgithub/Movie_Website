@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Stranger Things",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDZkYmVhNjMtNWU4MC00MDQxLWE3MjYtZGMzZWI1ZjhlOWJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "genre": "Sci-fi, Horror",
+        "popular": true
+    },
+    {
+        "title": "Game of Thrones",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2IzYzBiOTQtNGZmMi00NDI5LTgxMzMtN2EzZjA1NjhlOGMxXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+        "genre": "Fantasy, Drama",
+        "popular": true
+    },
+    {
+        "title": "The Witcher",
+        "image": "https://es.web.img2.acsta.net/pictures/19/11/22/09/33/5060052.jpg",
+        "genre": "Fantasy, Drama, Action",
+        "popular": false
+    },
+    {
+        "title": "Alice in Borderland",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTg0ODY5OGYtZjJjMy00NmY2LWIzNDMtNzQ4MTBmMjRjOTMwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+        "genre": "Drama, Action",
+        "popular": true
+    },
+    {
+        "title": "Lucifer",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDJjMzc4NGYtZmFmNS00YWY3LThjMzQtYzJlNGFkZGRiOWI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "genre": "Drama, Action",
+        "popular": true
+    },
+    {
+        "title": "Money Heist",
+        "image": "https://m.media-amazon.com/images/M/MV5BODI0ZTljYTMtODQ1NC00NmI0LTk1YWUtN2FlNDM1MDExMDlhXkEyXkFqcGdeQXVyMTM0NTUzNDIy._V1_FMjpg_UX1000_.jpg",
+        "genre": "Drama, Action",
+        "popular": true
+    }
+
+
+]

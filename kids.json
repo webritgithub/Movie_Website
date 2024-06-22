@@ -1,0 +1,45 @@
+[
+    {
+        "title": "Frozen",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/p_frozen_18373_3131259c.jpeg?region=0%2C0%2C540%2C810",
+        "genre": "Animation, Adventure, Comedy",
+        "popular": true
+    },
+    {
+        "title": "Toy Story",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_.jpg",
+        "genre": "Animation, Adventure, Comedy",
+        "popular": true
+    },
+    {
+        "title": "The Lion King",
+        "image": "https://m.media-amazon.com/images/S/pv-target-images/2c6bf6218aa296881bfba2aa6838a21a8bf768d844ad4522fe9931cdcb7a9f33.jpg",
+        "genre": "Animation, Adventure, Drama",
+        "popular": true
+    },
+    {
+        "title": "The Good Dinosaur",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/p_thegooddinosaur_19753_03c2af0a.jpeg",
+        "genre": "Animation, Adventure, Comedy",
+        "popular": false
+    },
+    {
+        "title": "Moana",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_FMjpg_UX1000_.jpg",
+        "genre": "Animation, Adventure, Comedy",
+        "popular": true
+    },
+    {
+        "title": "Cindrella",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjMxODYyODEzN15BMl5BanBnXkFtZTgwMDk4OTU0MzE@._V1_FMjpg_UX1000_.jpg",
+        "genre": "Animation, Adventure, Comedy",
+        "popular": true
+    },
+    {
+        "title": "Beauty and the Beast",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0rhPnedyCd5QhVVvQWej6lGgQ83HZzdoHw&s",
+        "genre": "Animation, Adventure, Comedy",
+        "popular": true
+    }
+    
+]

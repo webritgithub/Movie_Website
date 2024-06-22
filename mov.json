@@ -1,0 +1,85 @@
+[
+    {
+        "title": "M3GAN",
+        "genre": "Horror/Sci-fi",
+        "year": 2022,
+        "rating": 6.4,
+        "video": "mov/M3GAN.mp4",
+        "background": "https://media.wnyc.org/i/800/0/l/85/2023/01/02-m3g-dm-mobile-banner-1080x745-sl-f01-120922-6393deb1ec4b4-1.jpg",
+        "image": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/megan/images/regions/us/onesheet.jpg"
+    },
+    {
+        "title": "Shiddat",
+        "genre": "Romantic",
+        "year": 2021,
+        "rating": 7.6,
+        "video": "https://youtu.be/x60tMH7Pz9s?si=WInMdPZcv3fWDyat",
+        "background": "https://img.nowrunning.com/content/movie/2020/shidd-24147/bg.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/Shiddat_poster.jpg"
+    },
+    {
+        "title": "Yodha",
+        "genre": "Action",
+        "year": 2024,
+        "rating": 7.6,
+        "video": "",
+        "background": "https://www.koimoi.com/wp-content/new-galleries/2024/02/yodha-poster-netizens-praise-sidharth-malhotras-fierce-look-called-it-a-bombastic-poster.jpg",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDdlODdmODItZDAxNi00MjExLWFjOGItMGY3MzFjYzU4NDM3XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "title": "Sita Raman",
+        "genre": "Romantic",
+        "year": 2023,
+        "rating": 7.6,
+        "video": "",
+        "background": "https://assets-in.bmscdn.com/discovery-catalog/events/et00329656-jsszpmwnqt-landscape.jpg",
+        "image": "https://media.themoviedb.org/t/p/w500/g3hk2wEeIsTGhh7JvK8yWFVR7ue.jpg"
+    },
+    {
+        "title": "Shaitan",
+        "genre": "Horror",
+        "year": 2024,
+        "rating": 7.6,
+        "video": "",
+        "background": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202402/shaitaan-205639399-16x9_0.jpg?VersionId=puc5DtkKdRPj98nnd_OJIraQ8Z45LtDR&size=690:388",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzQwYmYyOWQtNTkyOS00ZjJiLWExMGEtYjdmNTIxNjliNDBiXkEyXkFqcGdeQXVyODgzMzg2MDg@._V1_.jpg"
+    },
+    {
+        "title": "Satya prem ki katha",
+        "genre": "Romantic",
+        "year": 2024,
+        "rating": 7.6,
+        "video": "",
+        "background": "https://img.indiaforums.com/article/1040x780/19/6867-after-the-teaser-makers-drop-the-first-poster-of-satyaprem-ki-katha-starring-kartik-aaryan-and-kiara.jpg?c=9dS207",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTJiM2U3NTctNTAwNi00ZmQ5LThmNDUtYjI4MDdhYzQ5ZmExXkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "title": "Inception",
+        "genre": "thriller",
+        "year":2024,
+        "rating":7.6,
+        "video": "",
+        "background": "https://assets-in.bmscdn.com/discovery-catalog/events/et00329656-jsszpmwnqt-landscape.jpg",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGFjOTRiYjgtYjEzMS00ZjQ2LTkzY2YtOGQ0NDI2NTVjOGFmXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+        "title": "The Conjuring",
+        "genre": "horror",
+        "year":2024,
+        "rating":7.6,
+        "video": "",
+        "background": "https://assets-in.bmscdn.com/discovery-catalog/events/et00329656-jsszpmwnqt-landscape.jpg",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjU5OWVlN2EtODNlYy00MjhhLWI0MDUtMTA3MmQ5MGMwYTZmXkEyXkFqcGdeQXVyNjE5MTM4MzY@._V1_.jpg"
+    },
+    {
+        "title": "Andhadhun",
+        "genre": "thriller",
+        "year":2018,
+        "rating":7.6,
+        "video": "",
+        "background": "https://assets-in.bmscdn.com/discovery-catalog/events/et00329656-jsszpmwnqt-landscape.jpg",
+        "image": "https://m.media-amazon.com/images/I/71iPrXEpx4L._AC_UF1000,1000_QL80_.jpg"
+    }
+    
+    
+]
